@@ -1,3 +1,5 @@
+-  ⦁═💠═⦁𝗘𝗻 𝗖𝘂𝘇𝗶𝗲𝗿⦁═💠═⦁
+
 - 👋 Hi, I’m @cuzier
 - 👀 I’m interested in whatsapp
 - 🌱 I’m currently learning coding & programming
