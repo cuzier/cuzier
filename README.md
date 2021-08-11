@@ -162,11 +162,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 | .add | Adds people to the group. |
 | .plugin | Shows the plugins you have installed. |
 | .install | It installs plugins. |
-| .remove | It delete plugins. |
-| .xmedia | It shows preset effects that you can apply to photo, video, and sound.
-| .unvoice | Sends any sound as a voice message. |
-| .scam | It does fake actions. |
-| .carbon | Converts the text to the code picture. |
+| .remove | It delete plugins. |ජ් the code picture. |
 | .promote | Makes someone in the group admin. |
 | .demote | It takes admin from someone in the group. |
 | .mute | Close the chat. |
@@ -306,3 +302,5 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 ## 👽Thanks To
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
 [Yusuf Usta](https://t.me/fusufs)
+
+## 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐮𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 🎭тєєηυн🚀
