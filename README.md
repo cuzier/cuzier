@@ -298,6 +298,12 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 [ᴇɴ⚡ᴄᴜɪᴢᴇʀ](https://github.com/farhan-dqz)  | [ᴛᴜᴛᴜ⚡𝐗](https://github.com/AI-VIKI) | [ᴍᴀꜱʜ⚡ᴢ](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
+
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{King-Amda}/count.svg) 
+                                                             
+ 
+
     
 ## 👽Thanks To
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
