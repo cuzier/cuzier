@@ -24,7 +24,7 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
 [Yusuf Usta](https://t.me/fusufs)
 
-##      𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐮𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 
+##      𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 
        ╘╬═🎭тєєηυн🚀═╬╛
 
 ##    ╭──⦁── 𝐆𝐢𝐭𝐡𝐮𝐛 ──⦁──╮ 
