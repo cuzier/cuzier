@@ -4,6 +4,7 @@
 
 
 
+# Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 
 <p align="center">
     Project of 🎭𝗖𝘂𝘇𝗶𝗲𝗿 𝗫🪐 - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
