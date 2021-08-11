@@ -5,7 +5,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
 ####
 
-## ⚡Developers
+## ⦁╬═Developers═╬⦁
   <div align="center">
     
   [![ᴇɴ ᴄᴜɪᴢᴇʀ](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![ᴛᴜᴛᴜ⚡𝐗](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![ᴍᴀꜱʜ⚡ᴢ](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
