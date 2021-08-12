@@ -2,7 +2,7 @@
 
 ![logo](https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cuzier)
 ####
 
 ## ⦁╬═Developers═╬⦁
