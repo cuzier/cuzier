@@ -50,8 +50,9 @@
   </a>
 </p>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cuzier/cuzier/edit/main/README.md)
 
-[![Deploy](https://github.com/cuzier)
+
 ####
 
 ## ⦁╬═Developers═╬⦁
