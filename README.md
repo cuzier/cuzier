@@ -3,32 +3,32 @@
 ![logo](https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg)
 
 <p align="center">
-  <a href="https://github.com/xneon2/Hashzi-X">
+  <a href="https://github.com/cuzier">
     <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square"/></a>
   
   </a>
-  <a href="https://github.com/xneon2/Hashzi-X">
+  <a href="https://github.com/cuzier">
     <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square">
     
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/xneon2/Hashzi-X">
+  <a href="https://github.com/cuzier">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxneon2%2FHashzi-X&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/xneon2/Hashzi-X/fork">
+  <a href="https://github.com/cuzier">
     <img src="https://img.shields.io/github/forks/xneon2/Hashzi-X?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/xneon2/Hashzi-X/stargazers">
+  <a href="https://github.com/cuzier">
     <img src="https://img.shields.io/github/stars/xneon2/Hashzi-X?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/xneon2/Hashzi-X">
+  <a href="https://github.com/cuzier">
     <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Boyutu&style=plastic">
 
   </a>
@@ -44,8 +44,8 @@
     <img src="https://img.shields.io/static/v1?label=Author&message=Neotro%20X&color=purple&style=plastic">
 
   </a>
-  <a href="https://wa.me/94786598862">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Teenuh%20AX%20-purple&style=plastic">
+  <a href="https://wa.me/19722901316">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Cuzier_X%20AX%20-purple&style=plastic">
 
   </a>
 </p>
